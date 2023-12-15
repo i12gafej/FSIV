@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_code.a CMakeFiles/common_code.dir/dataset.cpp.o CMakeFiles/common_code.dir/classifiers.cpp.o CMakeFiles/common_code.dir/metrics.cpp.o CMakeFiles/common_code.dir/features.cpp.o CMakeFiles/common_code.dir/gray_levels_features.cpp.o CMakeFiles/common_code.dir/histogram_features.cpp.o CMakeFiles/common_code.dir/local_binary_pattern_features.cpp.o
+/usr/bin/ranlib libcommon_code.a

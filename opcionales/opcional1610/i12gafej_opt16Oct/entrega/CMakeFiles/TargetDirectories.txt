@@ -1,0 +1,3 @@
+/home/yabiel/Documents/FSIV/opcionales/opcional1610/i12gafej_opt16Oct/entrega/CMakeFiles/opcional.dir
+/home/yabiel/Documents/FSIV/opcionales/opcional1610/i12gafej_opt16Oct/entrega/CMakeFiles/edit_cache.dir
+/home/yabiel/Documents/FSIV/opcionales/opcional1610/i12gafej_opt16Oct/entrega/CMakeFiles/rebuild_cache.dir

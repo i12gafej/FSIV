@@ -1,0 +1,4 @@
+/home/yabiel/Documents/FSIV/P5/edge_detector-students-1.0/edge_detector/build/CMakeFiles/edge_detector.dir
+/home/yabiel/Documents/FSIV/P5/edge_detector-students-1.0/edge_detector/build/CMakeFiles/edge_detector_test_common_code.dir
+/home/yabiel/Documents/FSIV/P5/edge_detector-students-1.0/edge_detector/build/CMakeFiles/edit_cache.dir
+/home/yabiel/Documents/FSIV/P5/edge_detector-students-1.0/edge_detector/build/CMakeFiles/rebuild_cache.dir

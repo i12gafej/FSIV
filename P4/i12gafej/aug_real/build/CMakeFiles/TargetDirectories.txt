@@ -1,0 +1,4 @@
+/home/yabiel/Documents/FSIV/P4/i12gafej/aug_real/build/CMakeFiles/aug_real.dir
+/home/yabiel/Documents/FSIV/P4/i12gafej/aug_real/build/CMakeFiles/test_common_code.dir
+/home/yabiel/Documents/FSIV/P4/i12gafej/aug_real/build/CMakeFiles/edit_cache.dir
+/home/yabiel/Documents/FSIV/P4/i12gafej/aug_real/build/CMakeFiles/rebuild_cache.dir

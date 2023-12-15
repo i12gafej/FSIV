@@ -1,0 +1,4 @@
+/home/yabiel/Documents/FSIV/opcionales/train fashion/train_fashion/build/CMakeFiles/common_code.dir
+/home/yabiel/Documents/FSIV/opcionales/train fashion/train_fashion/build/CMakeFiles/train_fashion_mnist.dir
+/home/yabiel/Documents/FSIV/opcionales/train fashion/train_fashion/build/CMakeFiles/edit_cache.dir
+/home/yabiel/Documents/FSIV/opcionales/train fashion/train_fashion/build/CMakeFiles/rebuild_cache.dir

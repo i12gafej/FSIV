@@ -1,0 +1,7 @@
+/home/yabiel/Documents/FSIV/P6/fashion_mnist-students-1.0/fashion_mnist/build/CMakeFiles/common_code.dir
+/home/yabiel/Documents/FSIV/P6/fashion_mnist-students-1.0/fashion_mnist/build/CMakeFiles/test_common_code.dir
+/home/yabiel/Documents/FSIV/P6/fashion_mnist-students-1.0/fashion_mnist/build/CMakeFiles/show_fashion_mnist.dir
+/home/yabiel/Documents/FSIV/P6/fashion_mnist-students-1.0/fashion_mnist/build/CMakeFiles/train_clf.dir
+/home/yabiel/Documents/FSIV/P6/fashion_mnist-students-1.0/fashion_mnist/build/CMakeFiles/test_clf.dir
+/home/yabiel/Documents/FSIV/P6/fashion_mnist-students-1.0/fashion_mnist/build/CMakeFiles/edit_cache.dir
+/home/yabiel/Documents/FSIV/P6/fashion_mnist-students-1.0/fashion_mnist/build/CMakeFiles/rebuild_cache.dir

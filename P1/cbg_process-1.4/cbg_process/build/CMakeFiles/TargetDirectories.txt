@@ -1,0 +1,4 @@
+/home/yabiel/Documents/FSIV/P1/cbg_process-1.4/cbg_process/build/CMakeFiles/cbg_process.dir
+/home/yabiel/Documents/FSIV/P1/cbg_process-1.4/cbg_process/build/CMakeFiles/cbg_process_test_common_code.dir
+/home/yabiel/Documents/FSIV/P1/cbg_process-1.4/cbg_process/build/CMakeFiles/edit_cache.dir
+/home/yabiel/Documents/FSIV/P1/cbg_process-1.4/cbg_process/build/CMakeFiles/rebuild_cache.dir

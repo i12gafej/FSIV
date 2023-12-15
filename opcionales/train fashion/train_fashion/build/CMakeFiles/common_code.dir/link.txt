@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_code.a CMakeFiles/common_code.dir/dataset.cpp.o
+/usr/bin/ranlib libcommon_code.a
